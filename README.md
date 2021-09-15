@@ -13,7 +13,9 @@ Harvard AM111 2017 Fall
 **Session Location**: GeoMuseum 103A
 
 **TF's Office Hour**: Every Tuesday 15:00-16:00, Pierce Hall 108
-   
+
+**Local Documentation**: [am111-readthedocs-io-en-latest.pdf](https://github.com/shishitao/AM111/files/7167502/am111-readthedocs-io-en-latest.pdf)    
+**Online Documentation**: https://am111.readthedocs.io/en/latest/
 
 This website contains supplemental materials made by the TF, Jiawei Zhuang. 
 These materials are **not required** for completing this course, 
